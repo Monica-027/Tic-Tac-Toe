@@ -71,12 +71,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Creator / Maintainer
 
-SAURABH MHATRE  (https://github.com/saurabhmhatre45)
+MONIKA  (https://github.com/Monica-027)
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mhatresaurabh2004@gmail.com"> 
+  <a href="monicaprajapati02@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
